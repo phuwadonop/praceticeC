@@ -18,5 +18,8 @@
     <ClCompile Include="01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fibonanci.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
