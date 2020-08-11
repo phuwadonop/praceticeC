@@ -2,7 +2,7 @@
 
 int main() {
 
-    long long int fibonanci[10000], sum = 0;
+    int fibonanci[10000], sum = 0;
 
     fibonanci[0] = 1; fibonanci[1] = 2;
 
@@ -19,6 +19,6 @@ int main() {
         if (fibonanci[x] % 2 == 0) sum += fibonanci[x];
     }
 
-    printf("%Ld", sum);
+    printf("%d", sum);
 
 }
