@@ -21,5 +21,8 @@
     <ClCompile Include="fibonanci.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="primefactor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
